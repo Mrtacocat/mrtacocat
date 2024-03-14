@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Christoffer@riis.cc**
 
-- 📄 Know about my experiences (Norwegian) [https://coral-cybill-92.tiiny.site](tiiny.site CV)
+- 📄 Know about my experiences (Norwegian) [Tiiny.site CV]((https://coral-cybill-92.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
