@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **UE5 Blueprints, Machine Learning & Business Intelligence**
 
-- 👨‍💻 All of my projects are available at ["Coming soon"]("Coming soon")
+- 👨‍💻 All of my projects are available at "Coming soon"
 
 - 💬 Ask me about **Java or Discord.js**
 
