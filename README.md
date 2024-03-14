@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christoffer Wiklund Riis</h1>
+<h1 align="center">Christoffer Wiklund Riis</h1>
 
 - 🔭 I’m currently working on [Unreal Engine 5 project](https://github.com/Mrtacocat/FighterUE5Game)
 
