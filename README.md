@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/christoffer riis](https://www.linkedin.com/in/christoffer-riis-02b9a9252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christoffer riis" height="30" width="40" /></a>
-- [linkedin](https://www.linkedin.com/in/christoffer-riis-02b9a9252/) 
+  [Tiiny.site](https://coral-cybill-92.tiiny.site) 
 <a href="[christoffer riis](https://www.facebook.com/Riisfromnorway/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christoffer riis" height="30" width="40" /></a>
 </p>
 
