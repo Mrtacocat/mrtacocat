@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at "Coming soon"
 
-- 💬 Ask me about **Java or Discord.js**
+- 💬 Ask me about **OOP Java or C#**
 
 - 📫 How to reach me **Christoffer@riis.cc**
 
