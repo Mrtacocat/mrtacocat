@@ -9,8 +9,6 @@
 - 💬 Ask me about **OOP Java or C#**
 
 - 📫 How to reach me **Christoffer@riis.cc**
-
-- 📄 CV [Tiiny.site](https://coral-cybill-92.tiiny.site)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
