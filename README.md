@@ -1,6 +1,6 @@
 <h1 align="center">Christoffer Wiklund Riis</h1>
 
-- 🔭 I’m currently working on [Unreal Engine 5 project](https://github.com/Mrtacocat/FighterUE5Game)
+- 🔭 I’m currently working on [TyperAPP](https://github.com/Mrtacocat/Typer)
 
 - 🌱 I’m currently learning **UE5 Blueprints, Machine Learning & Business Intelligence**
 
